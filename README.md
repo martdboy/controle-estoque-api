@@ -12,7 +12,8 @@ Framework: Spring 3.3.1 <br>
 SGBD: PostgreSQL 16 <br>
 
 # Configurações application.yml
-```spring:
+```
+spring:
   application:
     name: controle-estoque
   datasource:
@@ -26,5 +27,6 @@ SGBD: PostgreSQL 16 <br>
       ddl-auto: update
     show-sql: true
     properties:
-      dialect: org.hibernate.dialect.PostgreSQLDialect```
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+```
 
