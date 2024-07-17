@@ -1,4 +1,4 @@
-package com.marttheguy.controle_estoque.models;
+package com.marttheguy.controle_estoque.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
